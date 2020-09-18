@@ -1,0 +1,6 @@
+---------------- Get Object Id--------------------------------------
+az login
+	az ad user list --upn nirmallya.kolay.ext@outokumpu.com
+	OR
+	az ad user show --id nirmallya.kolay.ext@outokumpu.com
+----------------------------------------------------------------------------
